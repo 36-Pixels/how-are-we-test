@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">TestApp</string>
+
+    <string name="input_label">Input</string>
+    <string name="input_hint">nr. 0-100</string>
+    <string name="input_err">Type some number first!</string>
+    <string name="input_success">Number %1$d added!</string>
+    <string name="input_enter">Add</string>
+    <string name="output_label">Graph of values</string>
+
+
+</resources>
